@@ -1,10 +1,10 @@
 ---
 layout: home
-title: RL
+title: ML System Design
 nav_exclude: true
 seo:
   type: Курс
-  name: Навчання з підкріпленням
+  name: Дослідження і проектування інтелектуальних систем
 ---
 
 # {{ site.tagline }}

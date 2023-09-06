@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Головна
-tagline: Навчання з підкріпленням
+tagline: Дослідження і проектування інтелектуальних систем
 description: КПІ ім. Ігоря Сікорського - Осінь, 2023
 author: Юрій Кочура
-baseurl: '/rl-23fall' # the subpath of your site, e.g. /blog
+baseurl: '/mld-23fall' # the subpath of your site, e.g. /blog
 url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 

@@ -23,12 +23,11 @@ nav_order: 1
 Потрiбнi навички
 : - Рівень володіння англійською мовою не нижче А2.
 - Базовi знання з лiнiйної алгебри та теорiї ймовiрностей.
-- Досвiд тренування глибинних мереж (iнiцiалiзацiя, оптимiзацiя, регуляризацiя, вибiр методу
-та метрик для оцiнки).
+- Досвiд тренування глибинних мереж (iнiцiалiзацiя, оптимiзацiя, регуляризацiя).
 
 Підручники
-: 1. Sutton, R. S., & Barto, A. G. (2018). [*Reinforcement learning: An introduction.* ](http://incompleteideas.net/book/the-book-2nd.html) MIT press.
-2. Zai, A., & Brown, B. (2020). [*Deep reinforcement learning in action.*](https://www.manning.com/books/deep-reinforcement-learning-in-action) Manning Publications.
+: 1. Goodfellow, I., Bengio, Y., & Courville, A. (2016).  [*Deep Learning.* ](https://www.deeplearningbook.org/) MIT press.
+2. Sergios Karagiannakos (2021). [*Deep Learning in Production.*](https://www.amazon.com/Deep-Learning-Production-Sergios-Karagiannakos-ebook/dp/B09MJF24HZ/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8#customerReviews) AI Summer.
 
 
 ## На випадок повітряної тривоги

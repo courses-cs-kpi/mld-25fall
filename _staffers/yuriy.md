@@ -10,4 +10,4 @@ lectures: онлайн
 site: http://roz.kpi.ua/
 ---
 
-[BBB Link](https://bbb.comsys.kpi.ua/b/yur-juh-kwn-yuk){: .btn .btn-outline }
+[BBB Link](https://bbb.comsys.kpi.ua/b/yur-dcv-6hf-yvp){: .btn .btn-outline }

@@ -16,7 +16,7 @@ title: Повнозв'язні та згорткові мережі
   : Дедлайн: 10 листопада
 
 16 жов
-: **Лекція 3**{: .label .label-green } **Згорткові мережі**
+: **Лекція 3**{: .label .label-green } **Навчання нейронних мереж**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture3.pdf)]
 
 <!-- https://www.youtube.com/watch?v=pauPCy_s0Ok

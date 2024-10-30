@@ -27,6 +27,3 @@ title: Повнозв'язні та згорткові мережі
 <!-- https://www.youtube.com/watch?v=pauPCy_s0Ok
 <!-- Convolutional Neural Network from Scratch | Mathematics & Python Code https://www.youtube.com/watch?v=Lakz2MoHy6o
 
-2 лис
-: **ПР #2**{: .label .label-purple} [**Згорткові мережі**](https://drive.google.com/file/d/1_WzbIQbz9YTLYJrPB06yGmFaNS0AE4BW/view?usp=sharing)
-  : Дедлайн: 12 листопада  -->

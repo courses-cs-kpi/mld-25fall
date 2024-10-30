@@ -19,6 +19,11 @@ title: Повнозв'язні та згорткові мережі
 : **Лекція 3**{: .label .label-green } **Навчання нейронних мереж**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture3.pdf)]
 
+## Очікується
+06 лис
+: **Лекція 4**{: .label .label-green } **Увага та трансформери**
+  : [[HML]()][[PDF]()]
+
 <!-- https://www.youtube.com/watch?v=pauPCy_s0Ok
 <!-- Convolutional Neural Network from Scratch | Mathematics & Python Code https://www.youtube.com/watch?v=Lakz2MoHy6o
 

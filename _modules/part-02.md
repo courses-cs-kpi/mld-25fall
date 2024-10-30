@@ -25,5 +25,5 @@ title: Повнозв'язні та згорткові мережі
   : [[HML]()][[PDF]()]
 
 <!-- https://www.youtube.com/watch?v=pauPCy_s0Ok
-<!-- Convolutional Neural Network from Scratch | Mathematics & Python Code https://www.youtube.com/watch?v=Lakz2MoHy6o
+Convolutional Neural Network from Scratch | Mathematics & Python Code https://www.youtube.com/watch?v=Lakz2MoHy6o -->
 

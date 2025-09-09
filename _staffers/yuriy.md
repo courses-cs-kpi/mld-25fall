@@ -10,4 +10,4 @@ lectures: онлайн
 site: http://roz.kpi.ua/
 ---
 
-[BBB кімната](https://bbb.comsys.kpi.ua/b/yur-dcv-6hf-yvp){: .btn .btn-outline }
+[BBB кімната](https://bbb.comsys.kpi.ua/rooms/yur-dcv-6hf-yvp/join){: .btn .btn-outline }

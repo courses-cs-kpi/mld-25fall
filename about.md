@@ -29,7 +29,7 @@ nav_order: 1
 : 1. Goodfellow, I., Bengio, Y., & Courville, A. (2016).  [*Deep Learning.* ](https://www.deeplearningbook.org/) MIT press.
 1. Sergios Karagiannakos (2021). [*Deep Learning in Production.*](https://www.amazon.com/Deep-Learning-Production-Sergios-Karagiannakos-ebook/dp/B09MJF24HZ/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8#customerReviews) AI Summer.
 1. Chip Huyen (2022). [*Designing Machine Learning Systems. An Iterative Process for Production-Ready Applications*](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) O'Reilly Media.
-1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Машинне навчання*](https://drive.google.com/file/d/130ruX0CGGNtX1E39Y622Bu_CThHjb9nc/view?usp=sharing).
+1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Нейронні мережі*](https://github.com/dml-book/dml/releases/download/v0.1.10/0.1.10-final.pdf).
 
 
 ## На випадок повітряної тривоги

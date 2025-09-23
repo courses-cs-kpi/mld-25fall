@@ -15,7 +15,7 @@ title: Вступ
     : **Дедлайн**:  30 вересня 
 
 23 вер
-: **ПР #2**{: .label .label-purple} [**Згорткові мережі**]
+: **ПР #2**{: .label .label-purple} **Згорткові мережі**
   : [[Деталі](https://ykochura.github.io/mld-kpi/practice/Lab2.pdf)]
     : **Дедлайн**:  14 жовтня
 

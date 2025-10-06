@@ -19,6 +19,10 @@ title: Вступ
   : [[Деталі](https://ykochura.github.io/mld-kpi/practice/Lab2.pdf)]
     : **Дедлайн**:  14 жовтня
 
+07 жов
+: **Лекція 2**{: .label .label-green } **Увага та трансформери**
+  : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture2.pdf)]
+
 
 <!-- : **Лекція 1**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture1.pdf)] -->

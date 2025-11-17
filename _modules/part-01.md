@@ -28,6 +28,10 @@ title: Вступ
   : [[Деталі](https://ykochura.github.io/mld-kpi/practice/Lab3.pdf)]
     : **Дедлайн**:  30 листопада
 
+17 лис
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/mld-kpi/seminar/topics.pdf)]  
+
 
 <!-- : **Лекція 1**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture1.pdf)] -->
